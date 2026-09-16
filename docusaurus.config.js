@@ -12,8 +12,8 @@ const config = {
   tagline: 'A place to store my thoughts',
   favicon: 'img/favicon.ico',
 
-  // Set the production url of your site here
-  url: 'https://blog.joaovictornsv.dev',
+  // Docusaurus requires a url; keep it local so this repo does not advertise a public host.
+  url: 'http://localhost',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
