@@ -27,7 +27,7 @@ function CustomSection() {
           <a href="https://www.linkedin.com/in/joaovictornsv/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </li>
         <li>
-          <a href="mailto:joaovictornsv@gmail.com" target="_blank" rel="noopener noreferrer">Gmail</a>
+          <a href="mailto:hi@joaovictornsv.dev" target="_blank" rel="noopener noreferrer">Email</a>
         </li>
       </ul>
     </div>

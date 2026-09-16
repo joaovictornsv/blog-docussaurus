@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     Welcome!👋
-    <a href="https://blog-production-joaovictornsv.svc-us5.zcloud.ws" target="_blank">Check out my blog!</a>
+    <a href="https://blog.joaovictornsv.dev" target="_blank">Check out my blog!</a>
   </h1>
 </div>
     
